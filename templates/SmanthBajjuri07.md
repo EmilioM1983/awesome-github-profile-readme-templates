@@ -2,9 +2,9 @@
 
   
   
-  <h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
+  <h1 align="center">Hi! I'm Emilio Mayer 🤙<width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+software)](https://git.io/typing-svg)
   
   
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">-->
